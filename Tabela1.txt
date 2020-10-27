@@ -1,0 +1,12 @@
+program 	 PalavraReservada 	 1
+Test1 	 Identificador 	 1
+; 	 Delimitador 	 1
+var 	 PalavraReservada 	 2
+Area 	 Identificador 	 3
+, 	 Delimitador 	 3
+Comprimento 	 Identificador 	 3
+, 	 Delimitador 	 3
+Raio 	 Identificador 	 3
+: 	 Delimitador 	 3
+real 	 PalavraReservada 	 3
+; 	 Delimitador 	 3

@@ -1,0 +1,15 @@
+program 	 PalavraReservada 	 1
+Test5 	 Identificador 	 1
+; 	 Delimitador 	 1
+var 	 PalavraReservada 	 2
+A 	 Identificador 	 3
+, 	 Delimitador 	 3
+B 	 Identificador 	 3
+, 	 Delimitador 	 3
+R 	 Identificador 	 3
+, 	 Delimitador 	 3
+I 	 Identificador 	 3
+: 	 Delimitador 	 3
+integer 	 PalavraReservada 	 3
+; 	 Delimitador 	 3
+begin 	 PalavraReservada 	 4
